@@ -4,10 +4,10 @@
   "description": "Automatically add and open a file in the ipfs.io/ipfs gateway",
   "main": "",
   "bin": {
-    "ipfs-io": ". ./bin.sh"
+    "ipfs-io": "bin.sh"
   },
   "scripts": {
-    "run": "echo 'hello world' >> test && . ./bin.sh test"
+    "test": "echo 'hello world' >> test && . ./bin.sh test"
   },
   "repository": {
     "type": "git",
