@@ -1,6 +1,6 @@
 {
   "name": "ipfs-to-gateway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically add and open a file in the ipfs.io/ipfs gateway",
   "main": "",
   "bin": {
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/richardlitt/ipfs-to-gateway/issues"
   },
-  "homepage": "https://github.com/richardlitt/ipfs-to-gateway#readme"
+  "homepage": "https://github.com/richardlitt/ipfs-to-gateway#readme",
+  "coordinates": [
+    35.6686736,
+    139.6699528
+  ]
 }
