@@ -1,5 +1,7 @@
 # ipfs-to-gateway
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/ipfs-to-gateway.svg)](https://greenkeeper.io/)
+
 > Automatically add and open a file in the ipfs.io gateway
 
 ## Install
